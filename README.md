@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Laszlo</h1>
 <h3 align="center">A passionate student on track to become a full-stack developer</h3>
 
-- 🔭 I’m currently working on [a social media platform based of instagram](https://github.com/Laszlo-Marc/instagram-clone-full-version)
+- 🔭 I’m currently working on [a budgeting app wit React](https://github.com/Laszlo-Marc/instagram-clone-full-version)
 
 - 🌱 I’m currently learning **React,JavaScript,HTML,CSS,C#,.NET**
 
