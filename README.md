@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Laszlo</h1>
 <h3 align="center">A passionate student on track to become a full-stack developer</h3>
 
-- 🔭 I’m currently working on [a session booking webapp for therapy centers](https://github.com/Laszlo-Marc/scheduly),[a social media platform for university students](https://github.com/Laszlo-Marc/chat-application)
+- 🔭 I’m currently working on [a session booking webapp for therapy centers](https://github.com/Laszlo-Marc/scheduly), [a social media platform for university students](https://github.com/Laszlo-Marc/chat-application)
 
 - 🌱 I’m currently learning **React,TypeScript,React Native,Three.js,Node.js,Spline**
 
